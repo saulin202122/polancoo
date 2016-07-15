@@ -1,0 +1,5 @@
+Profesor mi equipo y yo lo estamos entregando en una version mas antigua de python,
+lo cual es mi culpa anteriormente ya habia trabajado con python y encontre una plataforma
+la cual me gusto y acostumbre y a la hora de querer correrlo en otra maquina no jalaba 
+y vi que era por la vercion de python, la cual es 2.3.2 si el codigo no le jala seria por la version 
+pero si sirve !! 
